@@ -1,0 +1,5 @@
+/* css variables and defaults configurations */
+@import "./__base.css";
+
+/* tailwindcss configuration file */
+@import "./__tailwind.css";
