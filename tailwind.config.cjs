@@ -21,6 +21,12 @@ module.exports = {
         "public-sans": ['"Public Sans"', "sans-serif"],
         "dm-serif-display": ['"DM Serif Display"', "sans-serif"],
       },
+      backgroundImage: {
+        "footer-cicle-patter": "url(bg-pattern-circle.svg)",
+      },
+      backgroundPosition: {
+        "footer-cicle-patter-position": "140% 20%",
+      },
     },
   },
   plugins: [],
