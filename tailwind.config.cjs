@@ -27,6 +27,9 @@ module.exports = {
       backgroundPosition: {
         "footer-cicle-patter-position": "140% 20%",
       },
+      dropShadow: {
+        "schedule-demo-shadow": "10px 10px 25px -10px rgba(54, 83, 107, 0.25)",
+      },
     },
   },
   plugins: [],
