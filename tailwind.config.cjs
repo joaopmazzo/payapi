@@ -22,10 +22,11 @@ module.exports = {
         "dm-serif-display": ['"DM Serif Display"', "sans-serif"],
       },
       backgroundImage: {
-        "footer-cicle-patter": "url(bg-pattern-circle.svg)",
+        "cicle-patter": "url(bg-pattern-circle.svg)",
       },
       backgroundPosition: {
         "footer-cicle-patter-position": "140% 20%",
+        "home-main-cicle-patter-position": "115% -10rem",
       },
     },
   },

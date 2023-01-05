@@ -1,6 +1,6 @@
 <template>
   <Footer
-    class="bg-[#1B262F] bg-footer-cicle-patter bg-no-repeat bg-footer-cicle-patter-position"
+    class="bg-[#1B262F] bg-cicle-patter bg-no-repeat bg-footer-cicle-patter-position"
   >
     <div
       class="w-4/5 mx-auto py-8 flex flex-row items-center justify-between font-public-sans font-bold"
