@@ -34,7 +34,7 @@
             developers with the tools they need to create easy and accessible
             experiences for their users.
           </p>
-          <ButtonComponent buttonText="About us" buttonType="secondary" />
+          <ButtonComponent buttonText="About us" buttonType="secondary-white" />
         </div>
         <div
           class="flex flex-row flex-wrap items-center justify-end gap-14 fill-white"
