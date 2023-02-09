@@ -34,9 +34,7 @@
             developers with the tools they need to create easy and accessible
             experiences for their users.
           </p>
-          <button class="border border-white rounded-3xl px-6 py-3">
-            About us
-          </button>
+          <ButtonComponent buttonText="About us" buttonType="secondary" />
         </div>
         <div
           class="flex flex-row flex-wrap items-center justify-end gap-14 fill-white"
@@ -115,6 +113,7 @@
 
 <script>
 import ScheduleDemoInputComponentVue from "../../components/shared/ScheduleDemoInputComponent.vue";
+import ButtonComponent from "../../components/shared/ButtonComponent.vue";
 
 import GoogleLogo from "../../assets/shared/desktop/GoogleLogo.vue";
 import HewlettPackardLogo from "../../assets/shared/desktop/HewlettPackardLogo.vue";
@@ -133,6 +132,7 @@ export default {
     NvidiaLogo,
     OracleLogo,
     TeslaLogo,
+    ButtonComponent,
   },
   data() {
     return {

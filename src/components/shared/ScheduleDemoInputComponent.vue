@@ -7,11 +7,16 @@
       placeholder="Enter email address"
       class="px-6 py-3 w-72 outline-none"
     />
-    <button
-      type="button"
-      class="bg-[#ba4270] rounded-3xl px-6 py-3 text-[#FBFCFE] right-6"
-    >
-      Schedule a Demo
-    </button>
+    <ButtonComponent buttonText="Schedule a Demo" buttonType="primary" />
   </form>
 </template>
+
+<script>
+import ButtonComponent from "../../components/shared/ButtonComponent.vue";
+
+export default {
+  components: {
+    ButtonComponent,
+  },
+};
+</script>
