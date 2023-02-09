@@ -100,13 +100,6 @@
           </p>
         </div>
       </div>
-
-      <div class="flex items-center justify-between w-4/5 mx-auto my-24">
-        <h1 class="font-dm-serif-display text-5xl text-[#36536B]">
-          Ready to start?
-        </h1>
-        <ScheduleDemoInputComponentVue />
-      </div>
     </section>
   </main>
 </template>
